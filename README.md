@@ -8,8 +8,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 LIRI takes in the following commands:
     * my-tweets
+
     * spotify-this-song
+
     * movie-this
+
     * do-what-it-says
 
 #### my-tweets
@@ -35,7 +38,7 @@ Run `node liri.js spotify-this-song <name_of_song>`.
 Run `node liri.js movie-this <name_of_movie>`. 
 
 * This will output the following information to your terminal/bash window:
-    *Title of the movie.
+    * Title of the movie.
     * Year the movie came out.
     * IMDB Rating of the movie.
     * Country where the movie was produced.
