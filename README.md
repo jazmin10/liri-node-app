@@ -20,7 +20,7 @@ Run `node liri.js my-tweets`. This will show your last 20 tweets and when they w
 
 #### spotify-this-song
 
-Run `node liri.js spotify-this-song <name_of_song>`. 
+Run `node liri.js spotify-this-song "<name_of_song>"`. 
 
 * This will show the following information about the song in your terminal/bash window:
     * Artist(s)
@@ -32,7 +32,7 @@ Run `node liri.js spotify-this-song <name_of_song>`.
 
 #### movie-this
 
-Run `node liri.js movie-this <name_of_movie>`. 
+Run `node liri.js movie-this "<name_of_movie>"`. 
 
 * This will output the following information to your terminal/bash window:
     * Title of the movie.
