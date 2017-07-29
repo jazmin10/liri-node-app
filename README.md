@@ -7,13 +7,10 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ### How it Works
 
 LIRI takes in the following commands:
-    * my-tweets
-
-    * spotify-this-song
-
-    * movie-this
-
-    * do-what-it-says
+* my-tweets
+* spotify-this-song
+* movie-this
+* do-what-it-says
 
 #### my-tweets
 
