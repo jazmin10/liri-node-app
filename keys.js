@@ -1,4 +1,4 @@
-/* ASSIGNMENT #8: LIRI BOT */
+/* LIRI BOT */
 
 // console.log("this is loaded");
 
